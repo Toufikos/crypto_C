@@ -8,6 +8,7 @@ int main()
     int choix;
     char fichier_name[50+1];
 
+    // Menu ***
     printf("\n================ MENU =================\n\n");
     printf("choix 1 : crypter un fichier\n");
     printf("choix 2 : decrypter un fichier\n\n");
